@@ -40,7 +40,7 @@
   <packaging>hpi</packaging>
 
   <name>Project Caroline</name>
-  <url>https://www.projectcaroline.net/</url>
+  <url>http://wiki.jenkins-ci.org/display/JENKINS/Caroline+Plugin</url>
 
   <licenses>
     <license>
